@@ -1,0 +1,35 @@
+body{
+    margin:0;
+}
+.pleca{
+    height: 60px;
+    background-image:  url("https://pilares.cdmx.gob.mx/themes/base/assets/images/group-3@2x.png");
+}
+.title{
+    height: 240px;
+    background-color: rgb(63 147 244);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.content{
+    /* background-color: rgb(114 183 244); */
+    width: 100vw;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+h1,h4{
+    margin: 0;
+}
+.logo{
+    width: 10vw;
+    height: auto;
+}
+.git{
+    position: absolute;
+    top: 85vh;
+    left:85vw;
+}
