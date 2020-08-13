@@ -1,5 +1,6 @@
-#Github Page - Actividad Pilares
+# Github Page - Actividad Pilares
 
-Patricia Herrera Astorga
+## Patricia Herrera Astorga
 
-#Link Page
+# Link Page
+
